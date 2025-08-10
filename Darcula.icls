@@ -1,7 +1,8 @@
-<scheme name="Darcula" version="142" parent_scheme="Darcula">
+<scheme name="Darcula Better" version="142" parent_scheme="Darcula">
   <metaInfo>
     <property name="ide">CLion</property>
-    <property name="ideVersion">2025.1.4.0.0</property>
+    <property name="ideVersion">2025.2.0.0</property>
+    <property name="originalScheme">Darcula Better</property>
   </metaInfo>
   <colors>
     <option name="FILESTATUS_ADDED" value="" />
@@ -34,19 +35,22 @@
         <option name="EFFECT_TYPE" value="2" />
       </value>
     </option>
-    <option name="org.rust.FUNCTION_CALL">
+    <option name="org.rust.CRATE">
+      <value />
+    </option>
+    <option name="org.rust.ENUM">
       <value>
-        <option name="FOREGROUND" value="ffc66d" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.ENUM_VARIANT">
+      <value>
+        <option name="FONT_TYPE" value="2" />
       </value>
     </option>
     <option name="org.rust.LIFETIME">
       <value>
         <option name="FOREGROUND" value="20999d" />
-      </value>
-    </option>
-    <option name="org.rust.METHOD_CALL">
-      <value>
-        <option name="FOREGROUND" value="ffc66d" />
       </value>
     </option>
     <option name="org.rust.MUT_BINDING">
@@ -60,6 +64,20 @@
         <option name="EFFECT_COLOR" value="bca5c4" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
+    </option>
+    <option name="org.rust.STRUCT">
+      <value />
+    </option>
+    <option name="org.rust.TRAIT">
+      <value />
+    </option>
+    <option name="org.rust.TYPE_ALIAS">
+      <value>
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.UNION">
+      <value />
     </option>
   </attributes>
 </scheme>
