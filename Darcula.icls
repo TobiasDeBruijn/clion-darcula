@@ -1,0 +1,65 @@
+<scheme name="Darcula" version="142" parent_scheme="Darcula">
+  <metaInfo>
+    <property name="ide">CLion</property>
+    <property name="ideVersion">2025.1.4.0.0</property>
+  </metaInfo>
+  <colors>
+    <option name="FILESTATUS_ADDED" value="" />
+    <option name="FILESTATUS_COPIED" value="" />
+    <option name="FILESTATUS_DELETED" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_DELETED_FROM_FILE_SYSTEM" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_IGNORED" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_BOTH_CONFLICTS" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_CONFLICTS" value="" />
+    <option name="FILESTATUS_IDEA_FILESTATUS_MERGED_WITH_PROPERTY_CONFLICTS" value="" />
+    <option name="FILESTATUS_MERGED" value="" />
+    <option name="FILESTATUS_MODIFIED" value="" />
+    <option name="FILESTATUS_NOT_CHANGED_IMMEDIATE" value="" />
+    <option name="FILESTATUS_NOT_CHANGED_RECURSIVE" value="" />
+    <option name="FILESTATUS_RENAMED" value="" />
+    <option name="FILESTATUS_UNKNOWN" value="" />
+    <option name="FILESTATUS_addedOutside" value="" />
+    <option name="FILESTATUS_changelistConflict" value="" />
+    <option name="FILESTATUS_modifiedOutside" value="" />
+    <option name="RIGHT_MARGIN_COLOR" value="" />
+  </colors>
+  <attributes>
+    <option name="HTML_CUSTOM_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="e8bf6a" />
+      </value>
+    </option>
+    <option name="TYPO">
+      <value>
+        <option name="EFFECT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="org.rust.FUNCTION_CALL">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
+    <option name="org.rust.LIFETIME">
+      <value>
+        <option name="FOREGROUND" value="20999d" />
+      </value>
+    </option>
+    <option name="org.rust.METHOD_CALL">
+      <value>
+        <option name="FOREGROUND" value="ffc66d" />
+      </value>
+    </option>
+    <option name="org.rust.MUT_BINDING">
+      <value>
+        <option name="EFFECT_COLOR" value="bca5c4" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="org.rust.MUT_PARAMETER">
+      <value>
+        <option name="EFFECT_COLOR" value="bca5c4" />
+        <option name="EFFECT_TYPE" value="1" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
